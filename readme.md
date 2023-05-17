@@ -19,19 +19,19 @@
 ###### [HTTP Request and Response](https://github.com/tiktakz/TIL/blob/main/Network/1.Application%20Layer/HTTP%20Request%20%26%20Response.md)
 
 ### 2. Transport Layer
-###### [UDP와 TCP 특징](Network/2.Transport Layer/UDP & TCP.md)
-###### [Three-Way Handshake](https://developerkim.tistory.com/45)
-###### [TCP Reliable Data Transfer](https://developerkim.tistory.com/50)
-###### [TCP Congestion and Flow Control](https://developerkim.tistory.com/51)
+###### [UDP와 TCP 특징](https://github.com/tiktakz/TIL/blob/main/Network/2.Transport%20Layer/UDP%20%26%20TCP.md)
+###### [Three-Way Handshake](https://github.com/tiktakz/TIL/blob/main/Network/2.Transport%20Layer/3%20Way%20HandShake.md)
+###### [TCP Reliable Data Transfer](https://github.com/tiktakz/TIL/blob/main/Network/2.Transport%20Layer/TCP_Reliable%20Data%20Transfer.md)
+###### [TCP Congestion and Flow Control](https://github.com/tiktakz/TIL/blob/main/Network/2.Transport%20Layer/TCP_Congestion%20%26%20Flow%20Control.md)
 
 ### 3. Network Layer
-###### [IP Address](https://developerkim.tistory.com/52)
-###### [NAT and DHCP](https://developerkim.tistory.com/53)
-###### [Link State and Distance Vector](https://developerkim.tistory.com/54)
+###### [IP Address](https://github.com/tiktakz/TIL/blob/main/Network/3.Network%20Layer/IP%20Address.md)
+###### [NAT and DHCP](https://github.com/tiktakz/TIL/blob/main/Network/3.Network%20Layer/NAT%20%26%20DHCP.md)
+###### [Link State and Distance Vector](https://github.com/tiktakz/TIL/blob/main/Network/3.Network%20Layer/Link%20State%20%26%20Distance%20Vector.md)
 
 ### 4. Link Layer
-###### [MAC Protocol, CSMA/CD](https://developerkim.tistory.com/55)
-###### [MAC Address, ARP, Switch](https://developerkim.tistory.com/56)
+###### [MAC Protocol, CSMA/CD](https://github.com/tiktakz/TIL/blob/main/Network/4.Link%20Layer/MAC%20Protocol.md)
+###### [MAC Address, ARP, Switch]([https://developerkim.tistory.com/56](https://github.com/tiktakz/TIL/blob/main/Network/4.Link%20Layer/MAC%20Address%2C%20ARP))
 
 ### 5. Wireless Network
-###### [WiFi, CSMA/CA](https://developerkim.tistory.com/57)
+###### [WiFi, CSMA/CA](https://github.com/tiktakz/TIL/blob/main/Network/WiFi(802.11).md)
