@@ -5,6 +5,7 @@
 ###### [Thread](https://github.com/tiktakz/TIL/blob/main/Operating%20System/%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 ###### [프로세스 스케줄링](https://github.com/tiktakz/TIL/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 ###### [스케줄링 알고리즘](https://github.com/tiktakz/TIL/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
+###### [교착상태](https://github.com/tiktakz/TIL/blob/main/Operating%20System/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
 
 
 
